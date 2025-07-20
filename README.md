@@ -88,7 +88,7 @@ swiggy-dashboard/
 
 ## 🙋‍♂️ Author
 
-**Ansh Jain**
+Ansh Jain
 
 Fellow – NextLeap Data Analyst Program  
 Gmail:anshjain14092004@gmail.com
