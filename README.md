@@ -69,12 +69,9 @@ Dives into engagement patterns of genuine users:
 
 ```
 swiggy-dashboard/
-├── data/
-│   └── [DAF] - Tableau milestone data.csv
-├── dashboard/
-│   └── Final Dashboard.twb
-├── docs/
-│   └── Swiggy_Project_Outline.docx
+└── [DAF] - Tableau milestone data.csv
+└── Final Dashboard.twb
+└── Swiggy_Project_Outline.docx
 └── README.md
 ```
 ---
